@@ -29,6 +29,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "BLZIIN-1-DIA": {
+      "hwid": "RESET",
+      "expireDate": "2026-11-02",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
